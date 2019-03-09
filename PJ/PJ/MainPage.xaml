@@ -5,10 +5,15 @@
              x:Class="PJ.MainPage">
 
     <StackLayout>
-        <!-- Place new controls here -->
-        <Label Text="Welcome to Xamarin.Forms!" 
-           HorizontalOptions="Center"
-           VerticalOptions="CenterAndExpand" />
-    </StackLayout>
+        <Button BackgroundColor="Red"
+                WidthRequest="5">
+        </Button>
+        <Button BackgroundColor="Green">
 
+        </Button>
+        <Button BackgroundColor="Navy">
+
+        </Button>
+    </StackLayout>
+    
 </ContentPage>
