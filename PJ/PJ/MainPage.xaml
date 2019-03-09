@@ -7,10 +7,6 @@
     <StackLayout>
         <Button BackgroundColor="Red"
                 WidthRequest="5">
-            
-        </Button>
-        <Button BackgroundColor="Blue">
-
         </Button>
         <Button BackgroundColor="Green">
 
