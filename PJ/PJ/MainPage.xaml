@@ -10,14 +10,20 @@
                 Text="Button1test"
                 TextColor="YellowGreen">
         </Button>
-        <Button BackgroundColor="Green">
-
+        <Button BackgroundColor="Red"
+                WidthRequest="5"
+                Text="Button2test"
+                TextColor="Blue">
         </Button>
-        <Button BackgroundColor="Navy">
-
+        <Button BackgroundColor="Red"
+                WidthRequest="5"
+                Text="Button3test"
+                TextColor="Yellow">
         </Button>
-        <Button BackgroundColor="Yellow">
-
+        <Button BackgroundColor="Red"
+                WidthRequest="5"
+                Text="Button4test"
+                TextColor="Green">
         </Button>
     </StackLayout>
     
