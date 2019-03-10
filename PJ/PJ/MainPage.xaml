@@ -6,12 +6,17 @@
 
     <StackLayout>
         <Button BackgroundColor="Red"
-                WidthRequest="5">
+                WidthRequest="5"
+                Text="Button1test"
+                TextColor="YellowGreen">
         </Button>
         <Button BackgroundColor="Green">
 
         </Button>
         <Button BackgroundColor="Navy">
+
+        </Button>
+        <Button BackgroundColor="Yellow">
 
         </Button>
     </StackLayout>
