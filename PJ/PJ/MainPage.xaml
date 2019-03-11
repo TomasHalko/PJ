@@ -4,26 +4,23 @@
              xmlns:local="clr-namespace:PJ"
              x:Class="PJ.MainPage">
 
-    <StackLayout>
-        <Button BackgroundColor="Red"
-                WidthRequest="5"
+    <StackLayout
+        Orientation="Horizontal"
+        Margin="0">
+        <Button BackgroundColor="Yellow"
+                HeightRequest="2"
                 Text="Button1test"
+                TextColor="Black">
+        </Button>
+        <Button BackgroundColor="Blue"
+                HeightRequest="2"
+                Text="Button2test"
                 TextColor="YellowGreen">
         </Button>
-        <Button BackgroundColor="Red"
-                WidthRequest="5"
-                Text="Button2test"
-                TextColor="Blue">
-        </Button>
-        <Button BackgroundColor="Red"
-                WidthRequest="5"
+        <Button BackgroundColor="Navy"
+                HeightRequest="2"
                 Text="Button3test"
-                TextColor="Yellow">
-        </Button>
-        <Button BackgroundColor="Red"
-                WidthRequest="5"
-                Text="Button4test"
-                TextColor="Green">
+                TextColor="YellowGreen">
         </Button>
     </StackLayout>
     
